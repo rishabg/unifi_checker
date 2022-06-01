@@ -10,7 +10,10 @@ Check stock on unifi products online since the stock notifications don't seem to
 3. Install ruby (tested against ruby 3.1.0 on an M1 pro Macbook)
 4. Install bundler: ```gem install bundler```
 5. Install bundled gems: ```bundle install```
-6. Run the script: ```ruby scraper.rb```
+6. Create checker.yml file in YAML format (preferably from the included example file):
+      * ```mv checker_example.yml checker.yml```
+      * edit checker.yml and add the missing information (username, password, product urls that you are interested in)
+8. Run the script: ```ruby scraper.rb```
 
 Expected output is a list of In-stock and out-of-stock items.
 
