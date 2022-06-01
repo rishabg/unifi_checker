@@ -1,0 +1,10 @@
+# Enter unifi credentials here (this is because EA products need you to login to check stock)
+credentials:
+  username: {USERNAME_HERE}
+  password: {PASSWORD_HERE}
+
+# Enter urls of products of interest here
+product_urls:
+  - https://store.ui.com/collections/unifi-network-wireless/products/unifi-ap6-professional
+  - https://store.ui.com/collections/unifi-network-wireless/products/unifi-ap-6-lite
+  - https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/dream-wall-ea

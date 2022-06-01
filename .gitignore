@@ -10,6 +10,9 @@
 /test/version_tmp/
 /tmp/
 
+checker.yml
+unifi_cookies.yml
+
 # Used by dotenv library to load environment variables.
 # .env
 
