@@ -19,7 +19,7 @@ Expected output is a list of In-stock and out-of-stock items.
 
 ### Potential gotchas
 - This uses watir to launch a test chrome browser. This can be difficult to install on some platforms.
-- Chrome is launched conditionally (once a day or if the ```cookies.yml``` is not found on local dir)
+- Chrome is launched conditionally (once a day or if the ```unifi_cookies.yml``` is not found on local dir)
 - If the login didn't work, the script will not be able to check stock for Early Access products.
 
 
