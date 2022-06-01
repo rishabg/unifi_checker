@@ -6,7 +6,7 @@ Check stock on unifi products online since the stock notifications don't seem to
 ## How to use
 
 1. Clone this repo locally: ```gh repo clone rishabg/unifi_checker```
-2. CD into repo folder: ```cd unifi_chcker```
+2. CD into repo folder: ```cd unifi_checker```
 3. Install ruby (tested against ruby 3.1.0 on an M1 pro Macbook)
 4. Install bundler: ```gem install bundler```
 5. Install bundled gems: ```bundle install```
