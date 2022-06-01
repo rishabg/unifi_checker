@@ -1,7 +1,7 @@
 # Unifi Checker
 Check stock on unifi products online since the stock notifications don't seem to work correctly.
 
-## Disclaimer: This will break at some point when ubiquity changes layout for their website or product pages.
+## Disclaimer: This will break at some point when ubiquiti changes layout for their website or product pages.
 
 ## How to use
 
