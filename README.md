@@ -11,7 +11,7 @@ Check stock on unifi products online since the stock notifications don't seem to
 4. Install bundler: ```gem install bundler```
 5. Install bundled gems: ```bundle install```
 6. Create checker.yml file in YAML format (preferably from the included example file):
-      * ```mv checker_example.yml checker.yml```
+      * ```cp checker_example.yml checker.yml```
       * edit checker.yml and add the missing information (username, password, product urls that you are interested in)
 8. Run the script: ```ruby scraper.rb```
 
