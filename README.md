@@ -1,7 +1,7 @@
 # Unifi Checker
 Check stock on unifi products online since the stock notifications don't seem to work correctly.
 
-# ⚠️ 🔴 ‼️ [WARNING] Please do not share your unifi_cookies.yml or your checker.yml file with anyone since they contain private login information and can be used to log into your unifi account ⚠️ 🔴 ‼️
+# ⚠️ 🔴 ‼️ [WARNING] Please do not share the "unifi_cookies.yml" or the "checker.yml" file with anyone since they contain private login information and can be used to log into your unifi account ⚠️ 🔴 ‼️
 ## Disclaimer: This will break at some point when ubiquiti changes layout for their website or product pages.
 
 ### Installing pre-requisites
